@@ -5,7 +5,6 @@ The data leak was likely due to vulnerabilities in the bank’s existing securit
 2. How will this solution improve the security of sensitive customer information?
 Answer:
 We will enhance security by implementing multi-layered protection measures:
-
 Encryption at rest and in transit using AWS KMS.
 Identity management with IAM, enabling strict access control.
 Real-time threat detection with Amazon GuardDuty and AWS CloudTrail for logging and auditing system activity. These measures will significantly reduce the risk of unauthorized access or data breaches, ensuring that customer data is fully protected.
@@ -49,5 +48,3 @@ Post-implementation, we will set up Amazon CloudWatch for real-time system healt
 12. What happens if there’s another data breach after these changes?
 Answer:
 With the new security measures in place, the likelihood of another breach will be significantly reduced. In the rare event of a breach, services like Amazon GuardDuty will immediately detect any suspicious activity, and AWS CloudTrail will provide detailed logs for investigation. We’ll also implement AWS Backup for disaster recovery, ensuring that data is securely backed up and recoverable without major loss.
-
-13.
