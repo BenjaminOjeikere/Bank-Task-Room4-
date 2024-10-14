@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f65601f8-309c-4ae0-8183-acde1dd6d2cc)
+
 issues in Question
 
 Data Leak Impact: The bank experienced a data leak six months ago, which led to financial losses. This breach has heightened concerns about security, particularly the protection of sensitive customer data.
